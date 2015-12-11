@@ -21,10 +21,10 @@ github Desktopを使った流れ
 　ローカルレポジトリ作成
 　　１　github Desktopの左上の＋ボタンを押して(add,create,clone)のいずれかを行う
 　ローカルレポジトリのフォルダを確認する
-　　１　github Desktopの右上の歯車ボタンを押して　open in explorer を押下
+　　１　github Desktopの右上の歯車ボタンを押して　Open in Explorer を押下
 　  ２　この位置にファイルを追加したり、既存ファイルを編集する
 　Gitを使う
-　　１　github Desktopの右上の歯車ボタンを押して　open in Git Shell を押下
+　　１　github Desktopの右上の歯車ボタンを押して　Open in Git Shell を押下
 　GitHubを表示する
 　　１　github Desktopの右上の歯車ボタンを押して　View on GitHub を押下
 　　
