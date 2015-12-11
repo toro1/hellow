@@ -1,19 +1,30 @@
 
 ファイルの追加は
-　①ローカルにファイルを追加する(※ファイルはjis だとと文字化けする)
-　②下記のコマンド
-　　git add test.txt    untracked ⇒track　の状態にする
-　　git commit -m "新しくファイルを追加した" コミットする
+　１　ローカルにファイルを追加する(※ファイルはjis だとと文字化けする)
+　２　下記のコマンド
+　　　git add test.txt    untracked ⇒track　の状態にする
+　　　git commit -m "新しくファイルを追加した" コミットする
 
 ローカルレポジトリからgithub(リモートレポジトリ)への反映は
-　①下記のコマンド
-　　git push
+　１　下記のコマンド
+　　　git push
 
 github(リモートレポジトリ)からローカルレポジトリへの反映は(ローカルレポジトリ作成後)
-　①下記のコマンド
-　　git pull
+　１　下記のコマンド
+　　　git pull
 
 こまった(状態を確認したい時は)ときは
-　①下記のコマンド
-　git status
+　１　下記のコマンド
+　　　git status
 
+github Desktopを使った流れ
+　ローカルレポジトリ作成
+　　１　github Desktopの左上の＋ボタンを押して(add,create,clone)のいずれかを行う
+　ローカルレポジトリのフォルダを確認する
+　　１　github Desktopの右上の歯車ボタンを押して　open in explorer を押下
+　  ２　この位置にファイルを追加したり、既存ファイルを編集する
+　Gitを使う
+　　１　github Desktopの右上の歯車ボタンを押して　open in Git Shell を押下
+　GitHubを表示する
+　　１　github Desktopの右上の歯車ボタンを押して　View on GitHub を押下
+　　
