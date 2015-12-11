@@ -4,6 +4,7 @@
 git add test.txt    untracked ⇒track　の状態にする
 git commit -m "新しくファイルを追加した" コミットする
 
+※Unicodeでないと文字化けする
 
 
 
